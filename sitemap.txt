@@ -14,7 +14,7 @@ https://oneshu.gitee.io/cycu/contact/index.html
 https://oneshu.gitee.io/cycu/list/index.html
 https://oneshu.gitee.io/cycu/index/index.html
 https://oneshu.gitee.io/cycu
-https://oneshu.gitee.io/cycu/tags/AI/
 https://oneshu.gitee.io/cycu/tags/art/
-https://oneshu.gitee.io/cycu/tags/data/
+https://oneshu.gitee.io/cycu/tags/AI/
 https://oneshu.gitee.io/cycu/tags/IT%EF%BC%8CAI/
+https://oneshu.gitee.io/cycu/tags/data/
