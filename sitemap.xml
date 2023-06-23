@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oneshu.gitee.io/cycu/artitalk/index.html</loc>
+    
+    <lastmod>2023-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oneshu.gitee.io/cycu/2023/06/20/%E8%A1%8C%E4%B8%9A%E8%B5%84%E8%AE%AF/</loc>
     
     <lastmod>2023-06-21</lastmod>
@@ -139,36 +148,36 @@
 
   <url>
     <loc>https://oneshu.gitee.io/cycu</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://oneshu.gitee.io/cycu/tags/art/</loc>
-    <lastmod>2023-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oneshu.gitee.io/cycu/tags/AI/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oneshu.gitee.io/cycu/tags/IT%EF%BC%8CAI/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <loc>https://oneshu.gitee.io/cycu/tags/art/</loc>
+    <lastmod>2023-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneshu.gitee.io/cycu/tags/data/</loc>
-    <lastmod>2023-06-21</lastmod>
+    <lastmod>2023-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneshu.gitee.io/cycu/tags/IT%EF%BC%8CAI/</loc>
+    <lastmod>2023-06-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
